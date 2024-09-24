@@ -1,13 +1,10 @@
-## 📝 Sobre o desafio
+## 📝 Neste desafio
 
-Chegou o momento de colocar a mão na massa e se desafiar com código! 
-Bora ver o que te espera por aí? 👀
+👀 Conceitos básicos de JavaScript.
 
-Neste desafio você vai encontrar alguns exercícios para praticar alguns conceitos básicos de JavaScript.
+Arquivo `main.js` onde você vai resolver os exercícios abaixo:
 
-Depois crie o arquivo `main.js` que é onde você vai resolver os exercícios abaixo:
-
-Você pode apresentar o resultado tanto no **console** quanto em um **alerta** no navegador.
+Apresente o resultado tanto no **console** quanto em um **alerta** no navegador.
 
 1. Crie um script que exiba a mensagem "Hello World!" em um alerta no navegador.
 2. Crie um script que declare duas variáveis e exiba o resultado da soma entre elas.
